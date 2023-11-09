@@ -37,11 +37,11 @@ Deployment: Integrated the trained model into an app for real-time plant disease
 
 Tech Stack:
 App Development :
-Java
-XML
+Java,
+XML,
 Firebase
 
 Disease Prediction Part:
-Computational Neural Networks
-Deep Learning
+Computational Neural Networks,
+Deep Learning,
 Python
